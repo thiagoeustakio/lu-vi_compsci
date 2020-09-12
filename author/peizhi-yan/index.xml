@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Peizhi Yan | LU-VI Master of Science (Computer Science – AI)</title>
-    <link>/author/peizhi-yan/</link>
-      <atom:link href="/author/peizhi-yan/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://thiagoeustakio.github.io/lu-vi_compsci/author/peizhi-yan/</link>
+      <atom:link href="https://thiagoeustakio.github.io/lu-vi_compsci/author/peizhi-yan/index.xml" rel="self" type="application/rss+xml" />
     <description>Peizhi Yan</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-ca</language><copyright>Lakehead University Faculty of Science and Environmental Studies Department of Computer Science Master of Science in Computer Science Vector Institute - AI Specialization</copyright>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://thiagoeustakio.github.io/lu-vi_compsci/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Peizhi Yan</title>
-      <link>/author/peizhi-yan/</link>
+      <link>https://thiagoeustakio.github.io/lu-vi_compsci/author/peizhi-yan/</link>
     </image>
     
   </channel>

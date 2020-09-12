@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: /sitemap.xml
+Sitemap: https://thiagoeustakio.github.io/lu-vi_compsci/sitemap.xml
